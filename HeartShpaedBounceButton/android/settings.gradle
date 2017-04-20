@@ -1,0 +1,3 @@
+rootProject.name = 'HeartShpaedBounceButton'
+
+include ':app'
