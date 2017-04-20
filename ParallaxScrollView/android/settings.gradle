@@ -1,0 +1,3 @@
+rootProject.name = 'ParallaxScrollView'
+
+include ':app'
