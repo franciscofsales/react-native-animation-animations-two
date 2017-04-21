@@ -1,0 +1,3 @@
+rootProject.name = 'SwipeAwayCommentModal'
+
+include ':app'
